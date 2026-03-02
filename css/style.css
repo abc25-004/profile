@@ -8,5 +8,9 @@ div#divmaincontainer{
 /*styling the header of the site*/
 
 header#siteheader{
-  width:
+  width:100%;
+  height:150px;
+  background-image:linear-gradient(green,teal);
+  border:1px solid red;
+  border-radius:10px 10px 0 0;
  }
